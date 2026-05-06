@@ -2,11 +2,11 @@
  
  Real-Time-ARP-Attack-Detection-and-Resolution:
 
-- Identified and defended against a live ARP spoofing/poisoning attack on a home network
-- Used Norton antivirus software to detect ARP Attack
-- Confirmed ARP poisoning by listing ARP cache and Identified an anomalous IP address
-- Executed a linux script to flush ARP cache and safely resolve the ARP attack
+- Identified and defended against a real time ARP spoofing/poisoning attack on a home network
+- Cross referenced Norton alerts with manual ARP cache inspection to confirm ARP poisoning and identified anomalous IP address
+- Executed a Linux script to flush ARP cache and safely resolve the ARP attack
 - Carried out a full systems check on affected devices to ensure integrity of the network
+
 
 I've also ommited the following pieces of information from the terminal to maintain privacy and security:
 - IP Addresses
